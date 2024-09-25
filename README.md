@@ -11,7 +11,7 @@ My journey in exploring everything related to technology has led me to develop a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| to be edited          | to be edited|
+|CTF Player         | <a href ="https://github.com/knucklespaulo/CTF-Writeup"> CTF Writeup's </a>|
 | to be edited | to be edited|
 | to be edited         | to be edited|
 | to be edited      | to be edited|
@@ -41,4 +41,4 @@ to be edited
 </div>
 
 ## Projects
-- To be Edited
+- <a href ="https://github.com/knucklespaulo/CTF-Writeup"> CTF Writeup's
