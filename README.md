@@ -1,5 +1,7 @@
 # Hello, I'm Paulo Brito
 <a href="https://linkedin.com/in/pauloricardobrito/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/PauloBrito"><img src="https://img.shields.io/badge/-TryHackMe-red?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+
 
 I am a Cybersecurity Student with a profound interest in technology and a dedication to solving complex problems.
 
